@@ -14,16 +14,16 @@ is done in-place.
 
 0. If the number of the elements in the input triples,
 the time required to run the reigning champ algorithm
-will grow by __________________.
+will grow by 3n.   ???
 [Justify, in about 2 sentences.]
 
 0. If the number of the elements in the input triples,
 the number of times that the reigning champ algorithm
 will be invoked 
-will grow by __________________.
+will grow by 3n.   ???
 [Justify, in about 2 sentences.]
 
 0. If the number of the elements in the input triples,
 the time required for the selection sort
-will grow by __________________.
+will grow by 3n.   ???
 [Justify, in about 2 sentences.]
